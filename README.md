@@ -6,7 +6,7 @@
 
 ## Built with
 
-&emsp; ✅ React js <br>
+&emsp; ✅ React + Typescript <br>
 &emsp; ✅ Bootstrap <br>
 &emsp; ✅ RestCountries API
 
